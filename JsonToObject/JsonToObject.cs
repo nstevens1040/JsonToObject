@@ -1,9 +1,3 @@
-﻿// Decompiled with JetBrains decompiler
-// Type: Microsoft.PowerShell.Commands.JsonObject
-// Assembly: Microsoft.PowerShell.Commands.Utility, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
-// MVID: 7BE50D38-9B0A-4082-9265-05888B22349F
-// Assembly location: C:\Users\nstevens\Desktop\Microsoft.PowerShell.Commands.Utility.dll
-
 using JsonToObject.Properties;
 using System;
 using System.Collections.Generic;
